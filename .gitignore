@@ -1,0 +1,14 @@
+node_modules/
+out/
+dist/
+*.tsbuildinfo
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+
+# Rendered videos
+*.mp4
+*.webm
+*.mkv

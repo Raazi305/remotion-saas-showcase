@@ -1,0 +1,35 @@
+{
+    "name": "remotion-saas-showcase",
+    "version": "1.0.0",
+    "description": "A Remotion toolkit for creating stunning SaaS product showcase videos with code",
+    "author": "Jason Lin",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/s0974092/remotion-saas-showcase.git"
+    },
+    "scripts": {
+        "start": "remotion preview src/app.tsx",
+        "build": "remotion render src/app.tsx",
+        "upgrade": "remotion upgrade"
+    },
+    "dependencies": {
+        "@tailwindcss/postcss": "^4.1.17",
+        "lucide-react": "^0.378.0",
+        "postcss": "^8.5.1",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "remotion": "4.0.419",
+        "tailwindcss": "^4.1.17"
+    },
+    "devDependencies": {
+        "@remotion/cli": "4.0.419",
+        "@types/react": "^18.3.3",
+        "css-loader": "^7.1.3",
+        "postcss-loader": "^8.2.0",
+        "prettier": "^3.2.5",
+        "style-loader": "^4.0.0",
+        "typescript": "^5.4.5"
+    },
+    "packageManager": "pnpm@9.0.0"
+}
